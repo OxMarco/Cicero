@@ -6,6 +6,5 @@ According to your past experiences in the city you are visiting, the number of d
 The OpenData offered by local museums and institutions are carefully analysed by Cicero algorithm, running on IBM Bluemix platform (which allows complex previsions and calculations to be performed in less than a second and perfectly handles traffic peaks and bottlenecks).
 Revolutionise the way you plan your trip, choose Cicero and enjoy the best every city has to offer!
 
--- Technical Notes --
-
+#### Technical Notes
 Up to now it only consists of the UI and graphics, all code needs to be implemented.
