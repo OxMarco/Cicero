@@ -7,4 +7,5 @@ The OpenData offered by local museums and institutions are carefully analysed by
 Revolutionise the way you plan your trip, choose Cicero and enjoy the best every city has to offer!
 
 -- Technical Notes --
+
 Up to now it only consists of the UI and graphics, all code needs to be implemented.
